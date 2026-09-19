@@ -17,12 +17,12 @@ This project aims to develop a **speech-controlled mouse pointer system** using 
 
 This project consists of two primary modules:
 
-1. **`244101037_mouse_training_module`**  
-2. **`244101037_testing_module`**
+1. **`254101053_mouse_training_module`**  
+2. **`254101053_testing_module`**
 
 ---
 
-## 🧠 1. `244101037_mouse_training_module`
+## 🧠 1. `254101053_mouse_training_module`
 
 ### 📄 Description
 
@@ -43,7 +43,7 @@ Ensure the following files are present in the project directory before running t
 
 ---
 
-## 🎯 2. `244101037_testing_module`
+## 🎯 2. `254101053_testing_module`
 
 ### ⚠️ Pre-run Instructions
 
@@ -62,5 +62,5 @@ This module captures **live voice input** from the user and performs real-time s
 
 For more in-depth details and instructions, please refer to the `README` files located in the respective directories of:
 
-- `244101037_mouse_training_module`  
-- `244101037_testing_module`
+- `254101053_mouse_training_module`  
+- `254101053_testing_module`
