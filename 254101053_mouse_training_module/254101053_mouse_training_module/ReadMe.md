@@ -1,4 +1,4 @@
-# 🧾 244101037_mouse_training_module — Console Application Overview
+# 🧾 254101053_mouse_training_module — Console Application Overview
 
 This application was generated using **Visual C++ Application Wizard** and serves as the training module for the Speech-Controlled Mouse Pointer project.
 
@@ -8,18 +8,18 @@ Below is a summary of the key files and their purposes within the project:
 
 ## 📁 Project Structure
 
-### 🗂️ `244101037_mouse_training_module.vcxproj`
+### 🗂️ `254101053_mouse_training_module.vcxproj`
 - The main project file for the Visual C++ application.
 - Contains metadata such as:
   - Visual C++ version
   - Supported platforms and configurations
   - Features selected during project setup
 
-### 🗂️ `244101037_mouse_training_module.vcxproj.filters`
+### 🗂️ `254101053_mouse_training_module.vcxproj.filters`
 - Organizes source files using filters in the Visual Studio IDE.
 - Helps group files by type (e.g., `.cpp` under *Source Files*, `.h` under *Header Files*).
 
-### 📄 `244101037_mouse_training_module.cpp`
+### 📄 `254101053_mouse_training_module.cpp`
 - The main source file for this application.
 - Contains the implementation of the training logic.
 
